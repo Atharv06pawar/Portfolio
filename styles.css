@@ -113,6 +113,9 @@ body {
 .project-cards {
     display: flex;
     justify-content: space-around;
+}
+.project-card{
+    padding:2px 2px 2px 2px;
     width: 50px;
     height: 100px;
     background: rgba(255, 255, 255, 0.1); /* soft white glass */
@@ -122,7 +125,6 @@ body {
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.2);
 }
-
 .card {
     background-color: #1e1e1e;
     padding: 20px;
