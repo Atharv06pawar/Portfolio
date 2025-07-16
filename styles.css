@@ -5,9 +5,12 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: Roboto, sans-serif;
     background-color: #121212;
     color: white;
+    font-style: none;
+    margin: 0;
+    padding: 0; 
 }
 
 .navbar {
